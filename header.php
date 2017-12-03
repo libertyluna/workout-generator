@@ -3,7 +3,7 @@
 
     <title>Workout Generator</title>
 
-    <link rel="stylesheet" href="css/main.css" type="text/css" />
+    <link rel="stylesheet" href="main.css" type="text/css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
 </head>
 
@@ -11,6 +11,7 @@
     <div class="container">
         <div class="page-header">
             <h1>Workout Generator <small>Each exercise for 1 minute!</small></h1>
+            <span class="right">by <a href="https://github.com/libertyluna">@libertyluna</a></span>
         </div>
 
     <div class="row">
